@@ -1,0 +1,9 @@
+C:\Users\natalia.lytovchenko\Desktop\ПИР\Bank\Bank\bin\Debug\netstandard2.0\Bank.deps.json
+C:\Users\natalia.lytovchenko\Desktop\ПИР\Bank\Bank\bin\Debug\netstandard2.0\Bank.dll
+C:\Users\natalia.lytovchenko\Desktop\ПИР\Bank\Bank\bin\Debug\netstandard2.0\Bank.pdb
+C:\Users\natalia.lytovchenko\Desktop\ПИР\Bank\Bank\obj\Debug\netstandard2.0\Bank.csprojAssemblyReference.cache
+C:\Users\natalia.lytovchenko\Desktop\ПИР\Bank\Bank\obj\Debug\netstandard2.0\Bank.csproj.CoreCompileInputs.cache
+C:\Users\natalia.lytovchenko\Desktop\ПИР\Bank\Bank\obj\Debug\netstandard2.0\Bank.AssemblyInfoInputs.cache
+C:\Users\natalia.lytovchenko\Desktop\ПИР\Bank\Bank\obj\Debug\netstandard2.0\Bank.AssemblyInfo.cs
+C:\Users\natalia.lytovchenko\Desktop\ПИР\Bank\Bank\obj\Debug\netstandard2.0\Bank.dll
+C:\Users\natalia.lytovchenko\Desktop\ПИР\Bank\Bank\obj\Debug\netstandard2.0\Bank.pdb
